@@ -31,6 +31,11 @@
 ### 스탬프 및 쿠폰 페이지
 <img width="546" alt="image" src="https://github.com/user-attachments/assets/63eb1f20-7ffb-48d7-ab80-046da8cc4649">
 
+### 시연 영상
+https://github.com/user-attachments/assets/6c4e0b28-2b0a-4dfa-9c9f-5888aa0e3bba
+
+
+
 
 ## 🖥️Developer Rule
 - IDE는 인텔리제이로
